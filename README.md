@@ -26,6 +26,7 @@ As a developer specializing in real-time systems for civil society, I'm comforta
 - MQTT/ZeroMQ - I like light weight message queue for Iot
 - GraphQL - Even I know RESTFul, but I will pretend I know GraphQL only.
 - git: using it from the command line, not the GUI
+- Public Cloud: k8s, GCP(any firebase family (auth, host), storage)  ,Azure (function, storage, cosmodb, aks)
 - building reusable cross platform libraries/layers
 
 I'm almost happy to build usable(may not be friendly) UI/App
